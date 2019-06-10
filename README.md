@@ -62,10 +62,10 @@ When you switch to/from full screen mode, the font texture may become corrupted.
 
 Copyright
 =========
-1998 ZUN
-2011 Pegasy
-2018 WindowsTiger
-This program is in the public domain.
+1998 ZUNsoft (Team Shanghai Alice)  
+2011 Pegasy  
+2018 WindowsTiger  
+This program is in the public domain.  
 
 The assets and libraries it uses belongs to their authors. Check their webpage for copyright information
 
