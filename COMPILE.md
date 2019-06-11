@@ -4,7 +4,7 @@
 ## Windows (x86)
 ### Dependencies
 * Visual Studio 2015 (or 2017 with 2015 buildTools) [Download](https://visualstudio.com)
-* GLEW 2.1.0 (OpenGL) [SourceForge](https://glew.sourceforge.net)
+* GLEW 2.1.0 (OpenGL) [SourceForge](http://glew.sourceforge.net)
 * GuruGuruSMF4 [Download](https://www.vector.co.jp/soft/dl/win95/prog/se302066.html)
 * PMDWin [Download](http://c60.la.coocan.jp/)
 * PMDWin SDK [Download](http://c60.la.coocan.jp/)
