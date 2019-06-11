@@ -254,7 +254,7 @@ bool CPC98Font::DrawString(char *str,int nChar,int drawX,int drawY,float colorR,
 			{
 				TCHAR tstr[5];
 				memset(tstr,0,sizeof(tstr));
-				MultiByteToWideChar(CGame::GVar().m_textCodePage,0,(char*)twoBytes,charLen,tstr,5);
+				MultiByteToWideChar(CGame::GVar().m_textCodePage,0,(char*)twoBytes,charLen,(LPWSTR)tstr,5);
 				unsigned char *s=(unsigned char *)tstr;
 
 				GLuint dispList=GetDisplayListForChar(s[0]+s[1]*256);

@@ -127,7 +127,7 @@ void CGame::LoadModConfig()
  */
 bool CGame::fileCheck() {
 	/* 
-	//need for furture
+	//need for future
 	if (m_th5Dat0.LoadFile("kaiki0.dat")==false)
 	{
 		MessageBox(m_gameWindow.m_hWnd,_T("ƒtƒ@ƒCƒ‹‚ª‘‚«‚ß‚È‚¢‚Ì`"),NULL,MB_OK|MB_APPLMODAL|MB_ICONSTOP);
